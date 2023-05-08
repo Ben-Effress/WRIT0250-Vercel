@@ -6,4 +6,4 @@ magic of movie theaters while also showing lesser-known independent films that c
 This project is modeled as though it were an article on Indiewire.com, a publication that often posts opinion
 articles about movie-related topics.
 
-This project is deployed using Vercel and can be accessed [here](writ-0250-op-ed.vercel.app).
+This project is deployed using Vercel and can be accessed [here](https://writ-0250-op-ed.vercel.app).
